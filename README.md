@@ -24,7 +24,7 @@ Inside the '/validators' folder, the "UserValidator.js" file is responsible for 
 
 ![code01](/docs/code01.JPG)
 
-The "/controllers/user.js" file's methods contains their respective validation array as the second parameter.
+The "/controllers/user.js" file's methods contain their respective validation array as the second parameter.
 
 ![code02](/docs/code02.JPG)
 
