@@ -15,7 +15,7 @@ Validating and logging a NodeJS web API with Express-Validator and Bunyan.
 ## Objectives
 
 This project was created to demonstrate two important processes in a NodeJS web API: validating parameters and logging.
-The source code presented is this repository is a modified version of this [CRUD example](https://github.com/lucianopereira86/CRUD-NodeJS-Swagger-MongoDB).
+The source code presented is this repository is a modified version of this [CRUD example](https://github.com/lucianopereira86/CRUD-NodeJS-Swagger-MongoDB), so be sure that MongoDB service is running in your machine.
 
 ## Express-Validator
 
