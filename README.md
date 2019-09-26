@@ -2,7 +2,7 @@
 
 # NodeJS-ExpressValidator-Bunyan
 
-How to use Express-Validator and Bunyan in a NodeJS web API.
+Validating and logging a NodeJS web API with Express-Validator and Bunyan.
 
 ## Technologies:
 
